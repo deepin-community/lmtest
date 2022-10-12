@@ -1,0 +1,349 @@
+lmtest (0.9.39-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 07 Nov 2021 10:04:30 -0600
+
+lmtest (0.9.38-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Switch to virtual debhelper-compat (= 10)
+  * debian/compat: Removed
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 12 Sep 2020 08:32:44 -0500
+
+lmtest (0.9.37-2) unstable; urgency=medium
+
+  * Source-only upload
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 16 Aug 2019 17:34:23 -0500
+
+lmtest (0.9.37-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 07 May 2019 13:35:04 -0500
+
+lmtest (0.9.36-1) unstable; urgency=medium
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+  * debian/compat: Increase level to 9
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 06 Apr 2018 17:23:54 -0500
+
+lmtest (0.9.35-2) unstable; urgency=medium
+
+  * Rebuilt under R 3.4.0 to update registration for .C() and .Fortran()
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 03 Jun 2017 17:34:43 -0500
+
+lmtest (0.9.35-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add ${misc:Depends} to Depends
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 15 Feb 2017 15:24:59 -0600
+
+lmtest (0.9.34-2) unstable; urgency=medium
+
+  * debian/compat: Created
+ 
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 25 Jun 2016 07:27:19 -0500
+
+lmtest (0.9.34-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 07 Jun 2015 09:52:06 -0500
+
+lmtest (0.9.33-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 23 Jan 2014 17:11:09 -0600
+
+lmtest (0.9.32-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 19 Sep 2013 07:31:24 -0500
+
+lmtest (0.9.31-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 20 Apr 2013 06:46:25 -0500
+
+lmtest (0.9.30-2) unstable; urgency=low
+
+  * debian/control: Set Build-Depends: to current R version 
+  
+  * (Re-)building with R 3.0.0 (beta)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 30 Mar 2013 09:35:38 -0500
+
+lmtest (0.9.30-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Change Depends to ${R:Depends}
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 31 May 2012 06:37:55 -0500
+
+lmtest (0.9.29-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 16 Sep 2011 14:51:09 -0500
+
+lmtest (0.9.28-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 08 Jun 2011 06:17:51 -0500
+
+lmtest (0.9.27-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 26 Jul 2010 06:36:13 -0500
+
+lmtest (0.9.26-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 07 Dec 2009 18:37:03 -0600
+
+lmtest (0.9.25-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 17 Nov 2009 22:23:36 -0600
+
+lmtest (0.9.24-2) unstable; urgency=low
+
+  * Rebuilt for R 2.10.0 to work with new R-internal help file conversion
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 01 Nov 2009 19:06:01 -0600
+
+lmtest (0.9.24-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Changed Section: to new section 'gnu-r'
+  
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 3.8.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 28 May 2009 21:12:55 -0500
+
+lmtest (0.9.23-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Updated (Build-)Depends on current R version
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 05 Feb 2009 21:56:18 -0600
+
+lmtest (0.9.22-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Updated (Build-)Depends on current R version
+  * debian/control: Updated Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 09 Dec 2008 19:40:22 -0600
+
+lmtest (0.9.21-2) unstable; urgency=low
+
+  * Rebuildiing under current toolchain
+
+  * debian/control: Update (Build-)Depends on current R version
+  * debian/control: Update Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 05 Jun 2008 21:56:45 -0500
+
+lmtest (0.9.21-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 26 Jul 2007 16:02:49 -0500
+
+lmtest (0.9.20-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/control: Updated (Build-)Depends: to r-base-dev (>= 2.5.1)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 01 Jul 2007 12:26:50 -0500
+
+lmtest (0.9.19-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Build-Depends: updated to r-base-dev (>= 2.5.0~20070422)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Apr 2007 16:16:09 -0500
+
+lmtest (0.9.18-2) unstable; urgency=low
+
+  * debian/control: Added r-cran-lattice to Build-Depends: and Depends:
+  							(Closes: #385418)
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 31 Aug 2006 06:55:25 -0500
+
+lmtest (0.9.18-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 29 Aug 2006 21:23:36 -0500
+
+lmtest (0.9.17-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Updated Depends: + Build-Depends: to R 2.3.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 11 Aug 2006 20:09:48 -0500
+
+lmtest (0.9.16-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon,  7 Aug 2006 21:51:15 -0500
+
+lmtest (0.9.15-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/rules: Simplified to cdbs-based one-liner sourcing r-cran.mk 
+  * debian/control: Hence Build-Depends: updated to r-base-dev (>= 2.3.0)
+  
+  * debian/control: Standards-Version: increased to 3.7.2
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 23 May 2006 21:32:28 -0500
+
+lmtest (0.9.14-2) unstable; urgency=low
+
+  * debian/control: Added Build-Depends: on r-cran-zoo (Closes: #361884)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 10 Apr 2006 18:39:29 -0500
+
+lmtest (0.9.14-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 19 Jan 2006 13:32:50 -0600
+
+lmtest (0.9.13-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Standards-Version: upgradeded to 3.6.2
+  * debian/watch: Updated regular expression
+  * debian/post{inst,rm}: No longer call R to update html index
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu,  1 Dec 2005 21:19:59 -0600
+
+lmtest (0.9.12-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed,  1 Jun 2005 22:06:09 -0500
+
+lmtest (0.9.11-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 27 Apr 2005 22:04:56 -0500
+  
+lmtest (0.9.10-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 21 Jan 2005 20:42:29 -0600
+  
+lmtest (0.9.9-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 12 Dec 2004 11:23:40 -0600
+
+lmtest (0.9.8-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed,  3 Nov 2004 20:21:55 -0600
+
+lmtest (0.9.6-3) unstable; urgency=low
+
+  * Rebuilt under R 2.0.0
+  * debian/control: Updated Build-Depends: and Depends: accordingly
+  * debian/post{inst,rm}: Added to update html help index
+  * debian/watch: Added watch file
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri,  8 Oct 2004 17:45:01 -0500
+
+lmtest (0.9.6-2) unstable; urgency=low
+
+  * debian/control: Build-Depends on 'f2c [m68k]' 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat,  7 Feb 2004 13:33:25 -0600
+
+lmtest (0.9.6-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 31 Jan 2004 12:04:23 -0600
+
+lmtest (0.9.5-1) unstable; urgency=low
+
+  * Initial Debian Release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun,  4 Jan 2004 16:43:05 -0600
+
+

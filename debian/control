@@ -1,0 +1,16 @@
+Source: lmtest
+Section: gnu-r
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Build-Depends: debhelper-compat (= 11), r-base-dev (>= 4.1.2), dh-r, r-cran-zoo
+Standards-Version: 4.6.0
+Vcs-Browser: https://salsa.debian.org/edd/r-cran-lmtest
+Vcs-Git: https://salsa.debian.org/edd/r-cran-lmtest.git
+Homepage: https://cran.r-project.org/package=lmtest
+
+Package: r-cran-lmtest
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${R:Depends}, r-cran-zoo
+Description: GNU R package for diagnostic checking in linear models
+ This package provides a collection of tests, data sets and examples
+ for diagnostic checking in linear regression models.

@@ -1,0 +1,37 @@
+This is the Debian GNU/Linux r-cran-lmtest package of lmtest, a
+collection of tests, data sets and examples for diagnotic checking in
+linear regression models. The lmtest package was written by Torsten
+Hothorn, Achim Zeileis and David Mitchell.
+
+This package was created by Dirk Eddelbuettel <edd@debian.org>.
+The sources were downloaded from 
+	http://cran.us.r-project.org/src/contrib/
+
+The package was renamed from its upstream name 'lmtest' to 'r-cran-lmtest'
+to fit the pattern of CRAN (and non-CRAN) packages for R.
+
+Copyright (C) 2001 - 2008 Torsten Hothorn and Achim Zeileis 
+Portuibs Copyright (C) 2002 David Mitchell
+Portions Copyright (C) Royal Statistical Society
+
+License: GPL
+
+On a Debian GNU/Linux system, the GPL license is included in the file
+/usr/share/common-licenses/GPL.
+
+For reference, the upstream DESCRIPTION [with lines broken to 80 cols] file
+is included below:
+
+   Package: lmtest
+   Title: Testing Linear Regression Models
+   Version: 0.9-5
+   Date: 2003-11-21
+   Author: Torsten Hothorn <Torsten.Hothorn@rzmail.uni-erlangen.de>,
+    Achim Zeileis <zeileis@ci.tuwien.ac.at>, David Mitchell
+   Maintainer: Achim Zeileis <zeileis@ci.tuwien.ac.at>
+   Description: A collection of tests, data sets and examples
+    for diagnostic checking in linear regression models.
+   Depends: R (>= 1.4.0)
+   License: GPL
+
+

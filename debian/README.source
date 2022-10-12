@@ -1,0 +1,65 @@
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/ChickEgg.rda
+Documentation: man/ChickEgg.Rd
+  ->  US chicken population and egg production.
+      Source: Thurman W.N. & Fisher M.E. (1988)
+
+Files: data/Mandible.rda
+Documentation: man/Mandible.Rd
+  ->  Data from 167 fetuses, specifically gestation age and mandible length.
+      Source: L. S. Chitty and S. Campbell and D. G. Altman (1993)
+      
+Files: data/USDistLag.rda
+Documentation: man/USDistLag.Rd
+  ->  US macroeconomic data for fitting a distributed lag model.
+      Source: Greene W.H. (1993)
+
+Files: data/bondyield.rda
+Documentation: man/bondyield.Rd
+  ->  Bond Yield Data.
+      Source: T.Q. Cook & P.H. Hendershott (1978); J.B. Yawitz & W. J. Marshall (1981);
+      W. Krämer & H. Sonnberger (1986)
+      
+Files: data/currencysubstitution.rda
+Documentation: man/currencysubstitution.Rd
+  ->  Currency Substitution Data.
+      Source: M. Miles (1978); W. Krämer & H. Sonnberger (1986)
+      
+Files: data/ftemp.rda
+Documentation: man/ftemp.Rd
+  ->  Daily morning temperature of adult female (in degrees Celsius).
+      Source: Rob Hyndman, http://data.is/TSDLdemo
+
+Files: data/growthofmoney.rda
+Documentation: man/growthofmoney.Rd
+  ->  Growth of Money Supply Data.
+      Source: R.L. Hetzel (1981), W. Krämer & H. Sonnberger (1986)
+
+Files: data/jocci.rda
+Documentation: man/jocci.Rd
+  ->  Several macroeconomic time series from the U.S.
+      Source: Stock & Watson (1996)
+
+Files: data/moneydemand.rda
+Documentation: man/moneydemand.Rd
+  ->  Money Demand Data.
+      Source: S.D. Allen (1982), W. Krämer & H. Sonnberger (1986)
+
+Files: data/unemployment.rda
+Documentation: man/unemployment.Rd
+  ->  Unemployment Data.
+      Source: J.D. Rea (1983), W. Krämer & H. Sonnberger (1986),
+
+Files: data/valueofstocks.rda
+Documentation: man/valueofstocks.Rd
+  ->  Value of Stocks Data
+      Source: G. Woglom (1981), W. Krämer & H. Sonnberger (1986)
+      
+Files: data/wages.rda
+Documentation: man/wages.Rd
+  ->  Wages Data.
+      Source: D.A. Nicols (1983), W. Krämer & H. Sonnberger (1986)
+  
+ -- Dirk Eddelbuettel <edd@debian.org>, Fri,  6 Apr 2018 17:38:56 -0500
